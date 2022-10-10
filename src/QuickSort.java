@@ -1,3 +1,6 @@
+/**
+ * 快速排序
+ */
 public class QuickSort extends AbsSort{
 
     @Override

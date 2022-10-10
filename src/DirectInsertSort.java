@@ -1,6 +1,7 @@
+/**
+ * 直接插入排序
+ */
 public class DirectInsertSort extends AbsSort {
-
-
     @Override
     void sort() {
         for (int i=1;i<array.length;i++){
