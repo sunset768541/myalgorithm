@@ -20,5 +20,9 @@ public class MainClass {
         System.out.println("二分插入排序");
         BinaryInsertSort binaryInsertSort= new BinaryInsertSort();
         binaryInsertSort.printSort();
+
+        System.out.println("简单选择排序");
+        SimpleChooseSort simpleChooseSort = new SimpleChooseSort();
+        simpleChooseSort.printSort();
     }
 }
